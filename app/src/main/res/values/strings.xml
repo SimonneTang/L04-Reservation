@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Please enter your name</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Please enter you phone number:</string>
+    <string name="number">Phone number</string>
+    <string name="nopax">Please enter the number of people:</string>
+    <string name="numpax">No. pax</string>
+    <string name="smokingarea">Smoking Area?</string>
+    <string name="Datepicker">Date:</string>
+    <string name="Timepicker">Time:</string>
+    <string name="btndone">Done</string>
+    <string name="btnReset">Reset</string>
+</resources>
